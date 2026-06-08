@@ -1,0 +1,11 @@
+# Oversized source — exceeds GitHub's 100 MB file limit (kept locally only)
+*.pdf
+
+# Original-named audio export; the published copy is nhac-nen.mp3
+*Flipbook.mp3
+
+# Local dev config / scratch files
+.claude/
+pw_install.log
+check.js
+check2.js
