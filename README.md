@@ -1,7 +1,7 @@
 # Bản Anh Hùng Ca Vệ Quốc
 
-Trang web sách minh họa tương tác tái hiện hành trình kháng chiến chống Mỹ cứu nước (1954–1975).
-Sản phẩm sáng tạo của **TeamaiAI1810-ADS**.
+Trang web sách minh họa tương tác tái hiện hành trình kháng chiến chống Mỹ cứu nước (1954–1975) dưới ánh sáng tư tưởng Hồ Chí Minh.
+Sản phẩm sáng tạo môn **Tư tưởng Hồ Chí Minh** của nhóm **TeamaiHCM202** — lớp AI1810-ADS, Trường Đại học FPT.
 
 🔗 **Xem trực tuyến:** https://nguyencongtuyenlp.github.io/Ban-Anh-Hung-Ca-Ve-Quoc/
 
@@ -17,9 +17,8 @@ Sản phẩm sáng tạo của **TeamaiAI1810-ADS**.
 | `index.html` | Trang web hoàn chỉnh, **đã nhúng sẵn toàn bộ hình ảnh** — mở trực tiếp là chạy. |
 | `index.template.html` | Bản nguồn có placeholder `__COVER__`, `__P01__`..`__P12__`, `__FLAGS__`. |
 | `b64/` | Dữ liệu ảnh base64 dùng để dựng lại `index.html`. |
-| `assets/` | Ảnh JPG gốc của bìa và 12 trang. |
 | `nhac-nen.mp3` | Nhạc nền. |
 
 > Trang cần kết nối Internet để hiển thị sách lật Heyzine và phông chữ Google.
 
-© 2026 TeamaiAI1810-ADS. All rights reserved.
+© 2026 TeamaiHCM202. All rights reserved.
